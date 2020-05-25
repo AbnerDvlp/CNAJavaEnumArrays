@@ -6,6 +6,8 @@ public class app {
 		String alo;
 		alo ="oi";
 		System.out.println(""+alo);
+		
+		System.out.println("MOdificação 1"+alo);
 
 	}
 
