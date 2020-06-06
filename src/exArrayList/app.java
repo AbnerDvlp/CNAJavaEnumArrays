@@ -27,7 +27,7 @@ public class app {
 		}
 		
 		for (Cliente cliente : novoCliente) {
-			novoCliente.toString();
+			System.out.println(cliente.toString());
 		}
 
 	}
